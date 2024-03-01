@@ -1,0 +1,19 @@
+img
+{
+  width: 300px;
+  height: 300px;
+}
+.each-product
+{
+  border:1px solid black;
+  width: 300px;
+  padding: 10px;
+  background-color: antiquewhite;
+}
+.product-container
+{
+  display: flex;
+  flex-wrap: wrap;
+  background-color: aquamarine;
+  padding: 10px;
+}
